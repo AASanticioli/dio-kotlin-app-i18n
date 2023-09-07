@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Lab Project 01 - i18n</string>
+    <string name="quote">"Some folks think that Agile is about going fast. It’s not. It’s never been about going fast. Agile is about knowing, as early as possible, just how screwed we are."</string>
+    <string name="quote_author" translatable="false">Robert C. Martin</string>
+    <string name="quote_title" translatable="false">Clean Agile: Back to Basics</string>
 </resources>

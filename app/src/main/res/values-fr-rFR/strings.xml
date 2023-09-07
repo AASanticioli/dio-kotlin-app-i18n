@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab Project 01 - i18n</string>
+    <string name="quote">Certaines personnes pensent qu’Agile consiste à aller vite. Ce n\'est pas. Il n’a jamais été question d’aller vite. Agile, c\'est savoir, le plus tôt possible, à quel point nous sommes foutus.</string>
+</resources>

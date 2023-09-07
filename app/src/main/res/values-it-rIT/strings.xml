@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab Project 01 - i18n</string>
+    <string name="quote">Alcune persone pensano che Agile significhi andare veloci. Non è. Non si è mai trattato di andare veloci. Agile significa sapere, il prima possibile, quanto siamo fregati.</string>
+</resources>
